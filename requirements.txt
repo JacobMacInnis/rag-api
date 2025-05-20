@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+faiss-cpu
+scikit-learn
+matplotlib
+sentence-transformers==2.6.1
+nltk==3.8.1
+python-multipart==0.0.9
